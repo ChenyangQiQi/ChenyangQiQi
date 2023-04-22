@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 🌱 please visit my [website](http://chenyangqiqi.github.io) for further details.
 
 
-[![Chenyang Qi's github stats](https://github-readme-stats.vercel.app/api?username=ChenyangQiQi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Chenyang Qi's github stats](https://github-readme-stats.vercel.app/api?username=ChenyangQiQi&show_icons=true&theme=algolia)](http://chenyangqiqi.github.io)
 
 
