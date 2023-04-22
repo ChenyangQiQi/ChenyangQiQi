@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
- 
-
-### Hi there 👋
 🔭 I’m currently working on Image/Video Genration and [Video Editing](https://github.com/ChenyangQiQi/FateZero).
 
 🌱 please visit my [website](http://chenyangqiqi.github.io) for further details.
