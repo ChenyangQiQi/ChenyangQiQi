@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi, Chenyang Qi is there 👋
+
+
 
 <!--
-**ChenyangQiQi/ChenyangQiQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ 
+
+### Hi there 👋
+🔭 I’m currently working on Image/Video Genration and Editing. please visit my [website](http://chenyangqiqi.github.io) for further details.
+
+
+⚔️  Currently, I am working on AIGC related application: [Video Editing](https://github.com/ChenyangQiQi/FateZero).
+
+
+[![Chenyang Qi's github stats](https://github-readme-stats.vercel.app/api?username=ChenyangQiQi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
